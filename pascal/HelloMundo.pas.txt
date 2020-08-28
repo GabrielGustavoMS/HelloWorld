@@ -1,0 +1,6 @@
+﻿program nomePrograma;
+
+begin
+	(*Comentário*)
+	WriteLn('Hello Mundo !!!');
+end.
